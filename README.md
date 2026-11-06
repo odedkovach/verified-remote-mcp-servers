@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-1723 servers · 1013 handshakes passed · 710 require authentication · 18 categories
+1724 servers · 1014 handshakes passed · 710 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -1451,6 +1451,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [AgentBase](https://appside.build/mcp-servers/agentbase/) | <code>https://mcp.agentbase.tools/mcp</code> | other | ✅ handshake · 3 tools | [AgentBase](https://github.com/vhspace/agentbase) |
 | [Appside](https://appside.build/mcp-servers/appside/) | <code>https://appside.build/mcp</code> | Open | ✅ handshake · 8 tools | [Appside](https://appside.build/) |
 | [Astro Docs](https://appside.build/mcp-servers/astro-docs/) | <code>https://mcp.docs.astro.build/mcp</code> | Open | ✅ handshake · 1 tools | [Astro](https://astro.build/) |
+| [BlockVectra Docs](https://appside.build/mcp-servers/blockvectra-docs/) | <code>https://docs.blockvectra.com/mcp/docs</code> | Open | ✅ handshake · 2 tools | [BlockVectra](https://github.com/blockvectra/mcp) |
 | [Box](https://appside.build/mcp-servers/box/) | <code>https://mcp.box.com/</code> | OAuth | 🔐 auth required | [Box](https://box.com/) |
 | [Brainattic](https://appside.build/mcp-servers/brainattic/) | <code>https://app.brainattic.ai/api/mcp</code> | OAuth | 🔐 auth required | [Brainattic](https://brainattic.ai/docs/connect) |
 | [Capacitor](https://appside.build/mcp-servers/capacitor/) | <code>https://capacitor-mcp.capawesome.io/mcp</code> | other | ✅ handshake · 4 tools | [Capacitor](https://github.com/capawesome-team/capacitor-mcp) |

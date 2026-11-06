@@ -3094,6 +3094,20 @@
     }
   },
   {
+    "slug": "blockvectra-docs",
+    "name": "BlockVectra Docs",
+    "url": "https://docs.blockvectra.com/mcp/docs",
+    "category": "Knowledge & Docs",
+    "auth": "Open",
+    "maintainer": "BlockVectra",
+    "site": "https://github.com/blockvectra/mcp",
+    "check": {
+      "status": "passed",
+      "checkedAt": "2026-11-06T05:41:22.558Z",
+      "toolCount": 2
+    }
+  },
+  {
     "slug": "blogger-agent-by-nova-civai",
     "name": "Blogger Agent by Nova (CIVAI)",
     "url": "https://nova.civai.co/mcp/agents/blogger-agent",
