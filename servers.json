@@ -17388,6 +17388,20 @@
     }
   },
   {
+    "slug": "infinite-audience",
+    "name": "Infinite Audience",
+    "url": "https://mcp.infiniteaudience.ai/mcp",
+    "category": "Marketing & SEO",
+    "auth": "OAuth",
+    "maintainer": "NO FAIT (dba Infinite Audience)",
+    "site": "https://infiniteaudience.ai/",
+    "check": {
+      "status": "passed",
+      "checkedAt": "2026-11-12T18:09:22.893Z",
+      "toolCount": 57
+    }
+  },
+  {
     "slug": "infyicon",
     "name": "Infyicon",
     "url": "https://infyicon.com/mcp",

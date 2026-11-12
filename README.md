@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2957 servers · 1781 handshakes passed · 1176 require authentication · 18 categories
+2958 servers · 1782 handshakes passed · 1176 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -1040,6 +1040,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [Gtm Help](https://appside.build/mcp-servers/gtm-help/) | <code>https://gtm.help/mcp</code> | OAuth | ✅ handshake · 16 tools | [Gtm Help](https://github.com/consultilycom-lang/gtm-help-mcp) |
 | [HarborRank](https://appside.build/mcp-servers/harborrank/) | <code>https://app.harborrank.com/mcp</code> | OAuth | 🔐 auth required | [HarborRank](https://harborrank.com/) |
 | [Iconserve](https://appside.build/mcp-servers/iconserve/) | <code>https://icons-for-agents.site/mcp</code> | API Key | ✅ handshake · 3 tools | [Iconserve](https://github.com/asr-aditya/iconserve) |
+| [Infinite Audience](https://appside.build/mcp-servers/infinite-audience/) | <code>https://mcp.infiniteaudience.ai/mcp</code> | OAuth | ✅ handshake · 57 tools | [NO FAIT (dba Infinite Audience)](https://infiniteaudience.ai/) |
 | [Kdp Niche Scorer](https://appside.build/mcp-servers/kdp-niche-scorer/) | <code>https://kdp-niche-scorer-mcp.mcpize.run/mcp</code> | other | 🔐 auth required | [Kdp Niche Scorer](https://github.com/ainjection/kdp-niche-scorer-mcp) |
 | [Keyword Research MCP by CrakSEO](https://appside.build/mcp-servers/keyword-research-mcp-by-crakseo/) | <code>https://crakseo.com/mcp/keyword-research</code> | other | 🔐 auth required | [Keyword Research MCP by CrakSEO](https://crakseo.com/tools/keyword-research) |
 | [Keywordise](https://appside.build/mcp-servers/keywordise/) | <code>https://keywordise.com/mcp</code> | other | ✅ handshake · 69 tools | [Keywordise](https://keywordise.com/mcp) |
