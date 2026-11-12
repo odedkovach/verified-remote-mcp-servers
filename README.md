@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2955 servers · 1779 handshakes passed · 1176 require authentication · 18 categories
+2956 servers · 1780 handshakes passed · 1176 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -2149,6 +2149,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [Egnyte](https://appside.build/mcp-servers/egnyte/) | <code>https://mcp-server.egnyte.com/sse</code> | OAuth | 🔐 auth required | [Egnyte](https://egnyte.com/) |
 | [Fluentedi](https://appside.build/mcp-servers/fluentedi/) | <code>https://fluentedi.com/mcp</code> | other | ✅ handshake · 19 tools | [Fluentedi](https://github.com/mastermanas805/fluentedi-mcp) |
 | [GlaziersEdge Knowledge](https://appside.build/mcp-servers/glaziersedge-knowledge/) | <code>https://glazing-mcp.glazingkb.workers.dev/mcp</code> | other | ✅ handshake · 7 tools | [GlaziersEdge Knowledge](https://glazing-mcp.glazingkb.workers.dev/mcp) |
+| [Grok Bot Wiki](https://appside.build/mcp-servers/grok-bot-wiki/) | <code>https://www.grokbotwiki.com/api/mcp</code> | Open | ✅ handshake · 11 tools | [Grok Bot Wiki](https://www.grokbotwiki.com/mcp) |
 | [HaveTML](https://appside.build/mcp-servers/havetml/) | <code>https://havetml.com/api/mcp</code> | OAuth | 🔐 auth required | [HaveTML](https://havetml.com/) |
 | [Helvedrive](https://appside.build/mcp-servers/helvedrive/) | <code>https://app.helvedrive.com/mcp</code> | OAuth | 🔐 auth required | [Helvedrive](https://helvedrive.com/) |
 | [Ionic Framework](https://appside.build/mcp-servers/ionic-framework/) | <code>https://ionic-framework-mcp.capawesome.io/mcp</code> | other | ✅ handshake · 5 tools | [Ionic Framework](https://github.com/capawesome-team/ionic-framework-mcp) |

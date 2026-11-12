@@ -15582,6 +15582,20 @@
     }
   },
   {
+    "slug": "grok-bot-wiki",
+    "name": "Grok Bot Wiki",
+    "url": "https://www.grokbotwiki.com/api/mcp",
+    "category": "Knowledge & Docs",
+    "auth": "Open",
+    "maintainer": "Grok Bot Wiki",
+    "site": "https://www.grokbotwiki.com/mcp",
+    "check": {
+      "status": "passed",
+      "checkedAt": "2026-11-12T10:17:32.442Z",
+      "toolCount": 11
+    }
+  },
+  {
     "slug": "grokzilla-micro-pay",
     "name": "Grokzilla Micro Pay",
     "url": "https://grokzilla.shop/mcp",
