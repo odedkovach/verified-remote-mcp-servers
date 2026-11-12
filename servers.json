@@ -12418,6 +12418,20 @@
     }
   },
   {
+    "slug": "excession-labs-cve-intelligence",
+    "name": "Excession Labs CVE intelligence",
+    "url": "https://excessionlabs.ai/mcp/cve",
+    "category": "Security",
+    "auth": "Open",
+    "maintainer": "Excession Labs",
+    "site": "https://excessionlabs.ai/cve-intelligence/",
+    "check": {
+      "status": "passed",
+      "checkedAt": "2026-11-12T15:01:31.346Z",
+      "toolCount": 6
+    }
+  },
+  {
     "slug": "exogram-personal-ai-agent-workspace",
     "name": "Exogram — Personal AI Agent & Workspace",
     "url": "https://api.exogram.ai/mcp",

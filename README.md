@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2956 servers · 1780 handshakes passed · 1176 require authentication · 18 categories
+2957 servers · 1781 handshakes passed · 1176 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -1803,6 +1803,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [Empresas BR CNPJ due diligence](https://appside.build/mcp-servers/empresas-br-cnpj-due-diligence/) | <code>https://mcp-empresas-br.mcpize.run/mcp</code> | other | 🔐 auth required | [Empresas BR CNPJ due diligence](https://mcpize.com/mcp/mcp-empresas-br) |
 | [Engagemii](https://appside.build/mcp-servers/engagemii/) | <code>https://api.engagemii.com/api/mcp</code> | other | ✅ handshake · 13 tools | [Engagemii](https://engagemii.com/) |
 | [Entia](https://appside.build/mcp-servers/entia/) | <code>https://mcp.entia.systems/mcp</code> | other | ✅ handshake · 15 tools | [Entia](https://github.com/ENTIA-IA/entia-mcp-server) |
+| [Excession Labs CVE intelligence](https://appside.build/mcp-servers/excession-labs-cve-intelligence/) | <code>https://excessionlabs.ai/mcp/cve</code> | Open | ✅ handshake · 6 tools | [Excession Labs](https://excessionlabs.ai/cve-intelligence/) |
 | [Free2AITools](https://appside.build/mcp-servers/free2aitools/) | <code>https://free2aitools.com/api/mcp</code> | API Key | ✅ handshake · 5 tools | [Free2AITools](https://free2aitools.com/) |
 | [Freeq](https://appside.build/mcp-servers/freeq/) | <code>https://irc.freeq.at/mcp</code> | other | ✅ handshake · 5 tools | [Freeq](https://github.com/freeq-irc/freeq) |
 | [Fx Audit](https://appside.build/mcp-servers/fx-audit/) | <code>https://wild-bird-a412.ybolduc.workers.dev/mcp</code> | other | ✅ handshake · 4 tools | [Fx Audit](https://github.com/iPAYX-Technologies/mcp-fx-audit) |
