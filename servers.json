@@ -39774,6 +39774,20 @@
     }
   },
   {
+    "slug": "wavegrain",
+    "name": "Wavegrain",
+    "url": "https://wavegrain.com/api/mcp",
+    "category": "Social Media",
+    "auth": "OAuth",
+    "maintainer": "Wavegrain",
+    "site": "https://wavegrain.com/",
+    "check": {
+      "status": "auth_required",
+      "checkedAt": "2026-11-13T09:06:09.995Z",
+      "toolCount": null
+    }
+  },
+  {
     "slug": "wavemaster-ai",
     "name": "WaveMaster AI",
     "url": "https://wosilzqqvhdmpdvhcfyu.supabase.co/functions/v1/mcp",

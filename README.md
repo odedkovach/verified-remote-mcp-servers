@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2958 servers · 1782 handshakes passed · 1176 require authentication · 18 categories
+2959 servers · 1782 handshakes passed · 1177 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -991,6 +991,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [ViralRecast](https://appside.build/mcp-servers/viralrecast/) | <code>https://viralrecast.com/mcp</code> | other | 🔐 auth required | [ViralRecast](https://viralrecast.com/) |
 | [VivaDialog](https://appside.build/mcp-servers/vivadialog/) | <code>https://api.vivadialog.com/mcp</code> | other | 🔐 auth required | [VivaDialog](https://api.vivadialog.com/) |
 | [VocaLingo](https://appside.build/mcp-servers/vocalingo/) | <code>https://nodejs.vocalingo.app/mcp</code> | other | 🔐 auth required | [VocaLingo](https://vocalingo.app/) |
+| [Wavegrain](https://appside.build/mcp-servers/wavegrain/) | <code>https://wavegrain.com/api/mcp</code> | OAuth | 🔐 auth required | [Wavegrain](https://wavegrain.com/) |
 | [Weir](https://appside.build/mcp-servers/weir/) | <code>https://api.weirapp.io/mcp</code> | OAuth | 🔐 auth required | [Weir](https://weirapp.io/) |
 | [www.juzpost.com](https://appside.build/mcp-servers/www-juzpost-com/) | <code>https://www.juzpost.com/mcp</code> | OAuth | ✅ handshake · 19 tools | [www.juzpost.com](https://www.juzpost.com/) |
 | [Xdataapi](https://appside.build/mcp-servers/xdataapi/) | <code>https://api.xdataapi.io/mcp</code> | OAuth | ✅ handshake · 14 tools | [Xdataapi](https://github.com/xdataapi/xdataapi) |
