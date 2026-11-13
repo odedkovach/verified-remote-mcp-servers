@@ -18984,6 +18984,20 @@
     }
   },
   {
+    "slug": "kling-ai-global",
+    "name": "Kling AI MCP (Global)",
+    "url": "https://kling.ai/mcp",
+    "category": "Design & Media",
+    "auth": "OAuth",
+    "maintainer": "Kling AI",
+    "site": "https://kling.ai/app/mcp/guide",
+    "check": {
+      "status": "auth_required",
+      "checkedAt": "2026-11-13T22:10:39.789Z",
+      "toolCount": null
+    }
+  },
+  {
     "slug": "klussenbeheer",
     "name": "Klussenbeheer",
     "url": "https://samdesk.nl/mcp",

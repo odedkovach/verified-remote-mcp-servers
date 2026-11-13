@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2959 servers · 1782 handshakes passed · 1177 require authentication · 18 categories
+2960 servers · 1782 handshakes passed · 1178 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -1637,6 +1637,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [Kineticist](https://appside.build/mcp-servers/kineticist/) | <code>https://www.kineticist.com/api/mcp</code> | other | ✅ handshake · 10 tools | [Kineticist](https://github.com/colinize/kineticist-mcp) |
 | [Kinopipe](https://appside.build/mcp-servers/kinopipe/) | <code>https://kinopipe.com/mcp</code> | OAuth | 🔐 auth required | [Kinopipe](https://github.com/nicolascoutureau/kinopipe-mcp) |
 | [KitCut](https://appside.build/mcp-servers/kitcut/) | <code>https://kitcut.ai/mcp</code> | OAuth | 🔐 auth required | [KitCut](https://kitcut.ai/docs/assistants) |
+| [Kling AI MCP (Global)](https://appside.build/mcp-servers/kling-ai-global/) | <code>https://kling.ai/mcp</code> | OAuth | 🔐 auth required | [Kling AI](https://kling.ai/app/mcp/guide) |
 | [KreatorFlow](https://appside.build/mcp-servers/kreatorflow/) | <code>https://kreatorflow.ai/api/mcp</code> | other | 🔐 auth required | [KreatorFlow](https://kreatorflow.ai/mcp) |
 | [KurdishTTS](https://appside.build/mcp-servers/kurdishtts/) | <code>https://www.kurdishtts.com/api/mcp</code> | API Key | ✅ handshake · 6 tools | [KurdishTTS](https://www.kurdishtts.com/docs/api) |
 | [kwnva.design portfolio](https://appside.build/mcp-servers/kwnva-design-portfolio/) | <code>https://kwnva.design/mcp</code> | API Key | ✅ handshake · 6 tools | [kwnva.design portfolio](https://kwnva.design/) |
