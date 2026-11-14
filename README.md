@@ -1637,7 +1637,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [Kineticist](https://appside.build/mcp-servers/kineticist/) | <code>https://www.kineticist.com/api/mcp</code> | other | ✅ handshake · 10 tools | [Kineticist](https://github.com/colinize/kineticist-mcp) |
 | [Kinopipe](https://appside.build/mcp-servers/kinopipe/) | <code>https://kinopipe.com/mcp</code> | OAuth | 🔐 auth required | [Kinopipe](https://github.com/nicolascoutureau/kinopipe-mcp) |
 | [KitCut](https://appside.build/mcp-servers/kitcut/) | <code>https://kitcut.ai/mcp</code> | OAuth | 🔐 auth required | [KitCut](https://kitcut.ai/docs/assistants) |
-| [Kling AI MCP (Global)](https://appside.build/mcp-servers/kling-ai-global/) | <code>https://kling.ai/mcp</code> | OAuth | 🔐 auth required | [Kling AI](https://kling.ai/app/mcp/guide) |
+| [Kling AI MCP (Global)](https://appside.build/mcp-servers/kling-ai-global/) | <code>https://kling.ai/mcp/plugin</code> | OAuth | 🔐 auth required | [Kling AI](https://kling.ai/app/mcp/guide) |
 | [KreatorFlow](https://appside.build/mcp-servers/kreatorflow/) | <code>https://kreatorflow.ai/api/mcp</code> | other | 🔐 auth required | [KreatorFlow](https://kreatorflow.ai/mcp) |
 | [KurdishTTS](https://appside.build/mcp-servers/kurdishtts/) | <code>https://www.kurdishtts.com/api/mcp</code> | API Key | ✅ handshake · 6 tools | [KurdishTTS](https://www.kurdishtts.com/docs/api) |
 | [kwnva.design portfolio](https://appside.build/mcp-servers/kwnva-design-portfolio/) | <code>https://kwnva.design/mcp</code> | API Key | ✅ handshake · 6 tools | [kwnva.design portfolio](https://kwnva.design/) |

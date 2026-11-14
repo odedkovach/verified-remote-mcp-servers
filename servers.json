@@ -18986,14 +18986,14 @@
   {
     "slug": "kling-ai-global",
     "name": "Kling AI MCP (Global)",
-    "url": "https://kling.ai/mcp",
+    "url": "https://kling.ai/mcp/plugin",
     "category": "Design & Media",
     "auth": "OAuth",
     "maintainer": "Kling AI",
     "site": "https://kling.ai/app/mcp/guide",
     "check": {
       "status": "auth_required",
-      "checkedAt": "2026-11-13T22:10:39.789Z",
+      "checkedAt": "2026-11-14T01:19:11.955Z",
       "toolCount": null
     }
   },
