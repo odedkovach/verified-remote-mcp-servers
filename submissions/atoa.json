@@ -1,0 +1,8 @@
+{
+  "site": "https://docs.paywithatoa.com/mcp-server",
+  "category": "Finance & Payments",
+  "name": "Atoa",
+  "maintainer": "Atoa",
+  "url": "https://mcp.atoa.me/mcp",
+  "auth": "API Key"
+}
