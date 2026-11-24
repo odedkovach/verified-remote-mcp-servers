@@ -1,0 +1,8 @@
+{
+  "name": "Message.com",
+  "url": "https://app.message.com/api/v1/mcp",
+  "category": "Communication",
+  "site": "https://www.message.com/integrations/mcp",
+  "auth": "OAuth",
+  "maintainer": "Message.com"
+}
