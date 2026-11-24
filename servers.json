@@ -31584,6 +31584,20 @@
     }
   },
   {
+    "slug": "script-it",
+    "name": "Script.it",
+    "url": "https://api.script.it/mcp",
+    "category": "Productivity",
+    "auth": "OAuth",
+    "maintainer": "Script.it",
+    "site": "https://script.it/MCP/",
+    "check": {
+      "status": "auth_required",
+      "checkedAt": "2026-11-24T13:25:26.546Z",
+      "toolCount": null
+    }
+  },
+  {
     "slug": "scrollhound",
     "name": "Scrollhound",
     "url": "https://api.scrollhound.com/mcp",

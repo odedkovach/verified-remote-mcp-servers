@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2975 servers · 1792 handshakes passed · 1183 require authentication · 18 categories
+2976 servers · 1792 handshakes passed · 1184 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -731,6 +731,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [Santismm Knowledge](https://appside.build/mcp-servers/santismm-knowledge/) | <code>https://santismm.com/mcp</code> | other | ✅ handshake · 36 tools | [Santismm Knowledge](https://github.com/santismm/santismm-knowledge-mcp) |
 | [Scope by Ouroboros Apps](https://appside.build/mcp-servers/scope-by-ouroboros-apps/) | <code>https://scope-continuity2.vercel.app/mcp</code> | OAuth | ✅ handshake · 9 tools | [Ouroboros Apps](https://ouroborosapps.com/docs/scope) |
 | [ScreenVerb](https://appside.build/mcp-servers/screenverb/) | <code>https://mcp.screenverb.com/mcp</code> | OAuth | 🔐 auth required | [ScreenVerb](https://screenverb.com/) |
+| [Script.it](https://appside.build/mcp-servers/script-it/) | <code>https://api.script.it/mcp</code> | OAuth | 🔐 auth required | [Script.it](https://script.it/MCP/) |
 | [Shorty](https://appside.build/mcp-servers/shorty/) | <code>https://aishorty.com/api/mcp</code> | OAuth | 🔐 auth required | [Shorty](https://aishorty.com/) |
 | [slide-deck.io](https://appside.build/mcp-servers/slide-deck-io/) | <code>https://slide-deck.io/mcp</code> | API Key | ✅ handshake · 3 tools | [slide-deck.io](https://slide-deck.io/mcp) |
 | [StaffPick](https://appside.build/mcp-servers/staffpick/) | <code>https://staffpick.ai/mcp</code> | OAuth | 🔐 auth required | [StaffPick](https://staffpick.ai/) |
