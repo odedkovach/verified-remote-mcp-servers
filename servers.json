@@ -35014,6 +35014,20 @@
     }
   },
   {
+    "slug": "store-mcp",
+    "name": "Store MCP",
+    "url": "https://store-mcp.com/mcp",
+    "category": "Commerce",
+    "auth": "OAuth",
+    "maintainer": "Moss Systems LLC",
+    "site": "https://store-mcp.com/",
+    "check": {
+      "status": "auth_required",
+      "checkedAt": "2026-11-25T02:20:08.892Z",
+      "toolCount": null
+    }
+  },
+  {
     "slug": "storefast",
     "name": "StoreFast",
     "url": "https://storefast.app/mcp",

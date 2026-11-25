@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2976 servers · 1792 handshakes passed · 1184 require authentication · 18 categories
+2977 servers · 1792 handshakes passed · 1185 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -1525,6 +1525,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [Runitonai](https://appside.build/mcp-servers/runitonai/) | <code>https://mcp.runitonai.com/mcp</code> | other | ✅ handshake · 11 tools | [Runitonai](https://github.com/StructLabs-io/runitonai-mcp) |
 | [SitesPlaced MCP](https://appside.build/mcp-servers/sitesplaced-mcp/) | <code>https://sitesplaced.com/api/mcp</code> | OAuth | 🔐 auth required | [SitesPlaced MCP](https://sitesplaced.com/developers/mcp) |
 | [Snug Planner](https://appside.build/mcp-servers/snug-planner/) | <code>https://api.snugplanner.com/mcp</code> | API Key | 🔐 auth required | [Snug Planner](https://snugplanner.com/) |
+| [Store MCP](https://appside.build/mcp-servers/store-mcp/) | <code>https://store-mcp.com/mcp</code> | OAuth | 🔐 auth required | [Moss Systems LLC](https://store-mcp.com/) |
 | [Tangibl](https://appside.build/mcp-servers/tangibl/) | <code>https://gettangibl.com/api/mcp</code> | OAuth | 🔐 auth required | [Tangibl](https://gettangibl.com/connect) |
 | [Vendwiser](https://appside.build/mcp-servers/vendwiser/) | <code>https://app.vendwiser.ai/mcp</code> | OAuth | 🔐 auth required | [Vendwiser](https://vendwiser.ai/) |
 | [WhizzyCommerce](https://appside.build/mcp-servers/whizzycommerce/) | <code>https://app.whizzycommerce.com/mcp</code> | OAuth | 🔐 auth required | [WhizzyCommerce](https://whizzycommerce.com/) |
