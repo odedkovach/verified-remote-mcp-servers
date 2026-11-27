@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2978 servers · 1792 handshakes passed · 1186 require authentication · 18 categories
+2979 servers · 1792 handshakes passed · 1187 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -998,6 +998,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [VocaLingo](https://appside.build/mcp-servers/vocalingo/) | <code>https://nodejs.vocalingo.app/mcp</code> | other | 🔐 auth required | [VocaLingo](https://vocalingo.app/) |
 | [Wavegrain](https://appside.build/mcp-servers/wavegrain/) | <code>https://wavegrain.com/api/mcp</code> | OAuth | 🔐 auth required | [Wavegrain](https://wavegrain.com/) |
 | [Weir](https://appside.build/mcp-servers/weir/) | <code>https://api.weirapp.io/mcp</code> | OAuth | 🔐 auth required | [Weir](https://weirapp.io/) |
+| [Winly](https://appside.build/mcp-servers/winly/) | <code>https://app.sbccrm.com/bld/api/mcp</code> | OAuth | 🔐 auth required | [Winly](https://getwinly.ai/mcp/) |
 | [www.juzpost.com](https://appside.build/mcp-servers/www-juzpost-com/) | <code>https://www.juzpost.com/mcp</code> | OAuth | ✅ handshake · 19 tools | [www.juzpost.com](https://www.juzpost.com/) |
 | [Xdataapi](https://appside.build/mcp-servers/xdataapi/) | <code>https://api.xdataapi.io/mcp</code> | OAuth | ✅ handshake · 14 tools | [Xdataapi](https://github.com/xdataapi/xdataapi) |
 | [Xpoz](https://appside.build/mcp-servers/xpoz/) | <code>https://mcp.xpoz.ai/mcp</code> | API Key | ✅ handshake · 52 tools | [Xpoz](https://www.xpoz.ai/) |

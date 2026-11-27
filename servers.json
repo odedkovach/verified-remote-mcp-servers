@@ -40572,6 +40572,20 @@
     }
   },
   {
+    "slug": "winly",
+    "name": "Winly",
+    "url": "https://app.sbccrm.com/bld/api/mcp",
+    "category": "Social Media",
+    "auth": "OAuth",
+    "maintainer": "Winly",
+    "site": "https://getwinly.ai/mcp/",
+    "check": {
+      "status": "auth_required",
+      "checkedAt": "2026-11-27T15:18:11.300Z",
+      "toolCount": null
+    }
+  },
+  {
     "slug": "wiretensors",
     "name": "WireTensors",
     "url": "https://wiretensors.ai/mcp",
