@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2979 servers · 1792 handshakes passed · 1187 require authentication · 18 categories
+2980 servers · 1793 handshakes passed · 1187 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -2234,6 +2234,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [GateRoam](https://appside.build/mcp-servers/gateroam/) | <code>https://gateroam.com/mcp</code> | OAuth | 🔐 auth required | [GateRoam](https://gateroam.com/?utm_source=github.com&utm_medium=directory&utm_campaign=mcp-listing) |
 | [Geospark](https://appside.build/mcp-servers/geospark/) | <code>https://geospark.terrascout.app/mcp</code> | other | ✅ handshake · 21 tools | [Geospark](https://github.com/Maz2580/geospark) |
 | [Google Maps](https://appside.build/mcp-servers/google-maps/) | <code>https://mapstools.googleapis.com/mcp</code> | API Key | ✅ handshake · 5 tools | [Google](https://developers.google.com/maps/ai/grounding-lite/reference/mcp) |
+| [GoVisit Tools](https://appside.build/mcp-servers/govisit-tools/) | <code>https://govisit.ai/mcp</code> | Open | ✅ handshake · 24 tools | [InHotel](https://govisit.ai/) |
 | [Hungry Esim](https://appside.build/mcp-servers/hungry-esim/) | <code>https://api.hungry-esim.com/mcp</code> | OAuth | ✅ handshake · 10 tools | [Hungry Esim](https://github.com/kangih90/hungry-esim-mcp) |
 | [Hypertask](https://appside.build/mcp-servers/hypertask/) | <code>https://mcp.hypertask.ai/mcp</code> | other | 🔐 auth required | [Hypertask](https://docs.hypertask.ai/mcp/overview/) |
 | [Inbox eSIM](https://appside.build/mcp-servers/inbox-esim/) | <code>https://inboxesim.com/mcp</code> | other | ✅ handshake · 6 tools | [Inbox eSIM](https://inboxesim.com/) |

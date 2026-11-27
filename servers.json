@@ -15568,6 +15568,20 @@
     }
   },
   {
+    "slug": "govisit-tools",
+    "name": "GoVisit Tools",
+    "url": "https://govisit.ai/mcp",
+    "category": "Travel & Local",
+    "auth": "Open",
+    "maintainer": "InHotel",
+    "site": "https://govisit.ai/",
+    "check": {
+      "status": "passed",
+      "checkedAt": "2026-11-27T18:21:29.998Z",
+      "toolCount": 24
+    }
+  },
+  {
     "slug": "gpra-chord-charts",
     "name": "Gpra Chord Charts",
     "url": "https://mcp.guitarpracticeroutine.com/mcp",
