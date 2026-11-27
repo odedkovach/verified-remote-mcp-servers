@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2977 servers · 1792 handshakes passed · 1185 require authentication · 18 categories
+2978 servers · 1792 handshakes passed · 1186 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -1127,6 +1127,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [AdRecast](https://appside.build/mcp-servers/adrecast/) | <code>https://adrecast.com/api/mcp</code> | API Key | 🔐 auth required | [AdRecast](https://adrecast.com/) |
 | [Ads MCP](https://appside.build/mcp-servers/ads-mcp/) | <code>https://adsmcp.dev/mcp</code> | OAuth | 🔐 auth required | [Ads MCP](https://adsmcp.dev/) |
 | [AdsCove](https://appside.build/mcp-servers/adscove/) | <code>https://adscove.com/api/mcp</code> | OAuth | 🔐 auth required | [AdsCove](https://adscove.com/) |
+| [Adspy](https://appside.build/mcp-servers/adspy/) | <code>https://www.adspy.sh/mcp</code> | OAuth | 🔐 auth required | [Adspy](https://www.adspy.sh/) |
 | [Advibly](https://appside.build/mcp-servers/mcp/) | <code>https://advibly.com/mcp</code> | OAuth | 🔐 auth required | [Mcp](https://github.com/advibly/mcp) |
 | [Duchamp](https://appside.build/mcp-servers/duchamp/) | <code>https://duchamp.app/api/mcp</code> | other | 🔐 auth required | [Duchamp](https://duchamp.app/) |
 | [Get MCP Ads](https://appside.build/mcp-servers/get-mcp-ads/) | <code>https://mcp.getmcpads.com/mcp</code> | OAuth | 🔐 auth required | [Get MCP Ads](https://www.getmcpads.com/) |
