@@ -14518,6 +14518,20 @@
     }
   },
   {
+    "slug": "genaya-connect",
+    "name": "Genaya Connect",
+    "url": "https://api.genaya.com/mcp",
+    "category": "Productivity",
+    "auth": "OAuth",
+    "maintainer": "Genaya",
+    "site": "https://developer.genaya.com/mcp",
+    "check": {
+      "status": "passed",
+      "checkedAt": "2026-11-28T02:11:08.138Z",
+      "toolCount": 7
+    }
+  },
+  {
     "slug": "genesis402-agent-kit",
     "name": "Genesis402 Agent Kit",
     "url": "https://twin.unykorn.org/mcp",

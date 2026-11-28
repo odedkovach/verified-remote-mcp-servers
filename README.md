@@ -2,7 +2,7 @@
 
 Every server is checked with a real MCP handshake: initialize + tools/list for open servers, and a 401 auth challenge for protected ones. Failures are removed. PRs are checked automatically and merged within a day — no waiting months. Checks are dated observations; auth challenges establish reachability, and we never invoke tools.
 
-2980 servers · 1793 handshakes passed · 1187 require authentication · 18 categories
+2981 servers · 1794 handshakes passed · 1187 require authentication · 18 categories
 
 [Add a server](CONTRIBUTING.md) · [Data license: CC BY 4.0](LICENSE-DATA) · [Code license: MIT](LICENSE)
 
@@ -675,6 +675,7 @@ Every server is checked with a real MCP handshake: initialize + tools/list for o
 | [Fireflies.ai](https://appside.build/mcp-servers/fireflies-ai/) | <code>https://api.fireflies.ai/mcp</code> | OAuth | 🔐 auth required | [Fireflies.ai](https://fireflies.ai/) |
 | [flconsole](https://appside.build/mcp-servers/flconsole/) | <code>https://mcp.lite.flconsole.com/mcp</code> | OAuth | 🔐 auth required | [flconsole](https://flconsole.com/) |
 | [Fxmacrodata](https://appside.build/mcp-servers/fxmacrodata/) | <code>https://fxmacrodata.com/mcp</code> | other | ✅ handshake · 46 tools | [Fxmacrodata](https://github.com/fxmacrodata/fxmacrodata) |
+| [Genaya Connect](https://appside.build/mcp-servers/genaya-connect/) | <code>https://api.genaya.com/mcp</code> | OAuth | ✅ handshake · 7 tools | [Genaya](https://developer.genaya.com/mcp) |
 | [Gentkey](https://appside.build/mcp-servers/gentkey/) | <code>https://app.gentkey.com/mcp</code> | OAuth | 🔐 auth required | [Gentkey](https://github.com/xekor/gentkey-mcp) |
 | [GetItDone](https://appside.build/mcp-servers/getitdone/) | <code>https://app.nowgetitdone.com/api/mcp</code> | OAuth | 🔐 auth required | [GetItDone](https://nowgetitdone.com/) |
 | [Gmail Agent by Nova (CIVAI)](https://appside.build/mcp-servers/gmail-agent-by-nova-civai/) | <code>https://nova.civai.co/mcp/agents/gmail-agent</code> | other | ✅ handshake · 4 tools | [Gmail Agent by Nova (CIVAI)](https://github.com/civai-technologies/gmail-agent-mcp-by-nova-civai) |
