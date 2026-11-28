@@ -1,0 +1,8 @@
+{
+  "name": "Genaya Connect",
+  "url": "https://api.genaya.com/mcp",
+  "category": "Productivity",
+  "site": "https://developer.genaya.com/mcp",
+  "auth": "OAuth",
+  "maintainer": "Genaya"
+}
